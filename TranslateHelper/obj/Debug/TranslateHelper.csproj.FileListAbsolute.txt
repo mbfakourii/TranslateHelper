@@ -1,0 +1,9 @@
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\bin\Debug\TranslateHelper.exe.config
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\bin\Debug\TranslateHelper.exe
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\bin\Debug\TranslateHelper.pdb
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.csprojResolveAssemblyReference.cache
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.Form1.resources
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.Properties.Resources.resources
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.csproj.GenerateResource.Cache
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.exe
+D:\Files\C#\TranslateHelper\TranslateHelper\TranslateHelper\obj\Debug\TranslateHelper.pdb
